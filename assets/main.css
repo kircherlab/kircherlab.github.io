@@ -105,7 +105,7 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #828282;
+  color: ##c3878;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
@@ -199,7 +199,7 @@ table {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
+  border-top: 5px solid #5485a8;
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
   position: relative; }
@@ -212,7 +212,7 @@ table {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #5485a8; }
 
 .site-nav {
   float: right;
@@ -251,7 +251,7 @@ table {
         padding-top: 10px;
         text-align: center; }
         .site-nav .menu-icon > svg path {
-          fill: #424242; }
+          fill: #5485a8; }
       .site-nav input ~ .trigger {
         clear: both;
         display: none; }
