@@ -3,20 +3,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>Research | JRG Genome Informatics</title>
+<title>Research | JRG Computational Genome Biology</title>
 <meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Research" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://username.github.io/research.html" />
 <meta property="og:url" content="https://username.github.io/research.html" />
-<meta property="og:site_name" content="JRG Genome Informatics" />
+<meta property="og:site_name" content="JRG Computational Genome Biology" />
 <script type="application/ld+json">
 {"url":"https://username.github.io/research.html","@type":"WebPage","headline":"Research","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://username.github.io/feed.xml" title="JRG Genome Informatics" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://username.github.io/feed.xml" title="JRG Computational Genome Biology" /></head>
 <body><header class="site-header" role="banner">
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">JRG Genome Informatics</a><nav class="site-nav">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">JRG Computational Genome Biology</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -40,40 +40,15 @@
   </header>
 
   <div class="post-content">
-    <p>The genomes of any two humans differ by thousands of structural variants (SVs) including deletions, duplications, insertions, inversions, translocations and more complex rearrangements that may have phenotypic consequences. However, with the current technologies and algorithms we are only beginning to understand the extent and evolution of SVs and their impact on phenotypes. Our abilities to identify SVs are limited due to the high repeat content in the (human) genome, due to noise in the data that leads to a high rate of false predictions as well as to inaccurate genotyping, and due to the fast-growing amount of newly generated data. Our lab addresses these challenges by developing new algorithms for the analysis of modern sequence data. We implement, test and make our methods available so that we and others can apply them to data sets in collaborative biomedical research projects.</p>
+    <p>Our research focuses on computational approaches of identifying functionally relevant genetic changes in disease and adaptation as well as developing more sensitive methods in diagnostics (especially exome, genome and cell-free DNA sequencing). Generally, our research spans the fields of sequence analysis, data mining, machine learning and functional genomics.</p>
 
-<div align="middle">
-  <img src="assets/images/NRNRs.png" style="max-width:100%;" alt="Examples of structural variants called with PopIns in WGS data of 15,219 Icelanders" />
-</div>
+<h3 id="research-interest">Research Interest</h3>
 
-<div class="figure-caption">
-  Examples of structural variants called with PopIns in WGS data of 15,219 Icelanders
-  <br />
-  from <a href="https://www.nature.com/articles/ng.3801">Kehr et al., Nature Genetics (2017)</a>
-</div>
+<p>Based on a broad interest in genetics, epigenetics, and human adaptation, my group develops computational solutions to overcome technical and experimental obstacles in high-throughput sequencing-based protocols. Our main focus area are computational approaches for identifying functionally relevant genetic.
 
-<h3 id="joint-calling-approaches">Joint calling approaches</h3>
+We develop and maintain a widely used variant effect scoring tool (Combined Annotation Dependent Depletion, CADD), that uses machine learning to integrate more than 80 different gene-based and genome-wide annotations. CADD was the first tool to predict variant deleteriousness for all possible single base-pair alterations genome-wide, while also allowing to score multi-base and insertion/deletion changes.
 
-<p>We take advantage of the magnitude of data that is generated, and develop SV identification and genotyping approaches that analyze data from many samples jointly. The idea behind these approaches is that one can better differentiate between signal and noise when looking at data sets of several samples together. Joint approaches are already well-established for SNV and indel calling, but much less for SVs. We are extending and improving the series of SV identification and genotyping programs that includes <a href="https://github.com/bkehr/PopIns">PopIns</a>, <a href="https://github.com/aimeida/PopAlu">PopAlu</a>, <a href="https://github.com/DecodeGenetics/popSTR">PopSTR</a>, and <a href="https://github.com/kehrlab/PopDel">PopDel</a>.</p>
-
-<h3 id="exploration-of-new-data-types">Exploration of new data types</h3>
-
-<p>Identification of complex SVs and SVs in repetitive regions requires long-range sequence information. Several data types from new technologies now offer long-range information (e.g. long reads, linked short reads, or optical genome maps). We explore such data types and develop algorithms for identifying those SVs that are invisible or ambiguous in standard short read data.</p>
-
-<h3 id="collaboration-in-disease-projects">Collaboration in disease projects</h3>
-
-<p>In addition to algorithm development, we apply our methods to data sets generated in various disease projects of our collaborators.</p>
-
-<div align="middle">
-  <img src="assets/images/CASP8.png" style="max-width:100%;" alt="A mobile element insertion in the CASP8 gene that is associated with protection against prostate cancer" />
-</div>
-
-<div class="figure-caption">
-  A mobile element insertion in the CASP8 gene that is associated with protection against prostate cancer
-  <br />
-  from <a href="https://academic.oup.com/hmg/article/25/5/1008/2384615">Stacey et al., Human Molecular Genetics (2016)</a>
-</div>
-
+Further, we collaborate with experimental groups to obtain and analyze experimental measures of non-coding sequence activity, specifically from Massively Parallel Reporter Assays (MPRA). Despite the majority of all mutations affecting non-coding sequences and a growing evidence of substantial phenotypic effects as well as clinical relevance, alterations in regulatory sequences remain less well understood than those in coding sequence. The lab uses experimental data to infer computational models of regulatory sequence effects with the goal of contributing to a better understanding of regulatory sequence function and later integrating regulatory sequence models in the next generation of genome-wide variant scores.</p>
 
   </div>
 
@@ -85,10 +60,10 @@
 
   <div class="wrapper">
 
-<!--    <h2 class="footer-heading">JRG Genome Informatics</h2>   -->
+<!--    <h2 class="footer-heading">JRG Computational Genome Biology</h2>   -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1"><ul class="social-media-list"><li><a href="https://github.com/kehrlab"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">kehrlab</span></a></li></ul>
+      <div class="footer-col footer-col-1"><ul class="social-media-list"><li><a href="https://github.com/kircherlab"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">kircherlab</span></a></li></ul>
 </div>
 
       <div class="footer-col footer-col-3">
