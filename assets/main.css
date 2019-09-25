@@ -89,10 +89,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #bb0000;
+  color: #0d3d6e;
   text-decoration: none; }
   a:visited {
-    color: #6f0000; }
+    color: #730a6e; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -199,7 +199,7 @@ table {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #5485a8;
+  border-top: 5px solid #2b5370;
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
   position: relative; }
