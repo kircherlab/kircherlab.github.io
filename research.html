@@ -61,7 +61,7 @@ We focus on genome-wide predictors of variant effects (CADD / CADD-SV) to estima
 
  <h3 id="Interpretation">Genome-wide predictors of variant effect</h3>
 
-<p> We develop and maintain a widely used variant effect scoring tool (Combined Annotation Dependent Depletion, CADD), that uses machine learning to integrate more than 80 different gene-based and genome-wide annotations. CADD was the first tool to predict variant deleteriousness for all possible single base-pair alterations genome-wide, while also allowing to score multi-base and insertion/deletion changes.<br>
+<p> We develop and maintain a widely used variant effect scoring tool (Combined Annotation Dependent Depletion, <a href="http://cadd.gs.washington.edu">CADD</a>), that uses machine learning to integrate more than 80 different gene-based and genome-wide annotations. CADD was the first tool to predict variant deleteriousness for all possible single base-pair alterations genome-wide, while also allowing to score multi-base and insertion/deletion changes.<br>
 
 While many variant annotation and scoring tools are around, most annotations tend to exploit a single information type (e.g. conservation) and/or are restricted in scope (e.g. to missense changes). Thus, a broadly applicable metric that objectively weights and integrates diverse information is needed. Combined Annotation Dependent Depletion (CADD) is a framework that integrates multiple annotations into one metric by contrasting variants that survived natural selection with simulated mutations.<br>
 
@@ -80,11 +80,30 @@ We extend this approach to comprehensively score Structural Variants (CADD-SV) w
 <div class="figure-caption">
   Regulatory sequences (promoters and enhancers) are involved in the control of gene expression. Mutations (stars) increase or decrease the binding of different proteins (transcription factors) to DNA sequence, thereby changing the amount of RNA which can impact certain phenotypes.
 </div>    
+ 
+    <p></p>
+
 
  <h3 id="diagnostic">Supporting the development of diagnostic assays</h3>
 
-<p> In addition, we develop pipelines to support data interpretation and visualisation of next generation sequencing applications. We show that nucleosome footprints obtained from cell free DNA can be used to infer cell types in pathological states such as cancer. We further build an automated analysis and result reporting pipeline for targeted sequencing data obtained from molecular inversion probes (hemoMIPs).
+<p> In addition, we develop pipelines to support data interpretation and visualisation of next generation sequencing applications. We show that nucleosome footprints obtained from cell free DNA can be used to infer cell types in pathological states such as cancer. We further build an automated analysis and result reporting pipeline for targeted sequencing data obtained from molecular inversion probes. HemoMIPs is availabe on <a href="https://github.com/kircherlab/hemoMIPs">github</a>
   </div>
+ <p></p>
+ <p></p>    
+          
+<h3 id="software">Software</h3>
+
+
+<p> If you want to find out more, have a look at our software on GitHub or data access and visualization:
+  
+ <a href="https://github.com/kircherlab/hemoMIPs">hemoMIPs</a>
+ <a href="https://github.com/kircherlab/CADD-scripts">CADD scripts</a>
+ <a href="https://cadd.gs.washington.edu/">CADD webserver</a>
+ <a href="https://mpra.gs.washington.edu/satMutMPRA/">Saturation Mutagenesis MPRA visualization</a>
+
+
+  </div>
+
 
 </article>
 
