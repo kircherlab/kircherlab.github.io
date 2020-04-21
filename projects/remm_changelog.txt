@@ -1,0 +1,10 @@
+ReMM score changelog
+
+- 0.3.1:
+  - Bugfix of region chr17:79759050-81195210. Region is missing in older versions.
+
+- 0.3:
+  - First official public version.
+  - Values for positions in training data are computed by cytoband-aware 10 fold cross-validation.
+  - Other position scores are compted by a generalized model of all training data.
+  - This version was used in the Genomiser publication (Smeley et.al. A Whole-Genome Analysis Framework for Effective Identification of Pathogenic Regulatory Variants in Mendelian Disease. AHJG. 2016)
