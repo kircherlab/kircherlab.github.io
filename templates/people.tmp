@@ -8,7 +8,7 @@
 
   <div class="post-content">
 
-<table class="lab-member-table" width="30%">
+<table class="lab-member-table">
 <tbody>
 <tr>
   <td class="lab-member-cell" width="33%">
@@ -29,7 +29,7 @@
 </tbody>
 </table>
 
-<table class="lab-member-table" width="30%">
+<table class="lab-member-table">
 <tbody>
 <tr>
   <td class="lab-member-cell" width="33%">
@@ -49,7 +49,7 @@
 </tbody>
 </table>
 
-<table class="lab-member-table" width="30%">
+<table class="lab-member-table">
 <tbody>
 <tr>
   <td class="lab-member-cell" width="33%">
@@ -74,10 +74,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/Philip.jpg" style="max-width:100%;" alt="Philip Kleinert" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b><a href="people/philip.html">Philip Kleinert</a></b>
     <br />
@@ -97,10 +97,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/Sebastian.jpg" style="max-width:100%;" alt="Sebastian Roener" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Sebastian R&ouml;ner</b>
     <br />
@@ -119,10 +119,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/Lusi.jpg" style="max-width:100%;" alt="Lusine Nazaretyan" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Lusine Nazaretyan</b>
     <br />
@@ -143,10 +143,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/Mohan.jpg" style="max-width:100%;" alt="Mohan Dash" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Pyaree Mohan Dash</b>
     <br />
@@ -164,10 +164,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/Theo.jpg" style="max-width:100%;" alt="Theo Chalkiadakis" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Theofilos Chalkiadakis</b>
     <br />
@@ -185,10 +185,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/Kristin.jpg" style="max-width:100%;" alt="Kristin K&ouml;¶hler" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Kristin K&ouml;hler</b>
     <br />
@@ -207,10 +207,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/Lea.jpg" style="max-width:100%;" alt="Lea Burkard" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Lea Burkard</b>
     <br />
@@ -228,10 +228,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/avatar.jpg" style="max-width:100%;" alt="Dennis M&uuml;ller" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Dennis M&uuml;ller</b>
     <br />
@@ -247,10 +247,10 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" style="max-width:200px;">
+  <td class="lab-member-cell" width="33%">
     <img src="assets/images/avatar.jpg" style="max-width:100%;" alt="Luisa Lekat" />
   </td>
-  <td class="lab-member-cell">
+  <td class="lab-member-cell" width="67%">
     <br />
     <b>Luisa Lekat</b>
     <br />
