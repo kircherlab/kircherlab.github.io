@@ -11,8 +11,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Martin.jpg" style="max-width:200px;" alt="Dr. Martin Kircher" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Martin.jpg" style="max-width:100%;" alt="Dr. Martin Kircher" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -32,8 +32,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Max.jpg" style="max-width:200px;" alt="Dr. Max Schubach" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Max.jpg" style="max-width:100%;" alt="Dr. Max Schubach" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -52,8 +52,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Philipp.jpg" style="max-width:200px;" alt="Philipp Rentzsch" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Philipp.jpg" style="max-width:100x;" alt="Philipp Rentzsch" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -74,8 +74,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Philip.jpg" style="max-width:200px;" alt="Philip Kleinert" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Philip.jpg" style="max-width:100%;" alt="Philip Kleinert" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -97,8 +97,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Sebastian.jpg" style="max-width:200px;" alt="Sebastian Roener" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Sebastian.jpg" style="max-width:100%;" alt="Sebastian Roener" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -119,8 +119,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Lusi.jpg" style="max-width:200px;" alt="Lusine Nazaretyan" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Lusi.jpg" style="max-width:100%;" alt="Lusine Nazaretyan" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -143,8 +143,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Mohan.jpg" style="max-width:200px;" alt="Mohan Dash" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Mohan.jpg" style="max-width:100%;" alt="Mohan Dash" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -164,8 +164,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Theo.jpg" style="max-width:200px;" alt="Theo Chalkiadakis" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Theo.jpg" style="max-width:100%;" alt="Theo Chalkiadakis" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -185,8 +185,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Kristin.jpg" style="max-width:200px;" alt="Kristin K&ouml;¶hler" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Kristin.jpg" style="max-width:100%;" alt="Kristin K&ouml;¶hler" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -207,8 +207,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/Lea.jpg" style="max-width:200px;" alt="Lea Burkard" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/Lea.jpg" style="max-width:100%;" alt="Lea Burkard" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -228,8 +228,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/avatar.jpg" style="max-width:200px;" alt="Dennis M&uuml;ller" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/avatar.jpg" style="max-width:100%;" alt="Dennis M&uuml;ller" />
   </td>
   <td class="lab-member-cell">
     <br />
@@ -247,8 +247,8 @@
 <table class="lab-member-table">
 <tbody>
 <tr>
-  <td class="lab-member-cell" width="200px">
-    <img src="assets/images/avatar.jpg" style="max-width:200px;" alt="Luisa Lekat" />
+  <td class="lab-member-cell" style="max-width:200px;">
+    <img src="assets/images/avatar.jpg" style="max-width:100%;" alt="Luisa Lekat" />
   </td>
   <td class="lab-member-cell">
     <br />
