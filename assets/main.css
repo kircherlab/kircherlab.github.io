@@ -6,6 +6,7 @@
 .lab-member-table {
   width: 49%;
   display: inline-block;
+  min-height: 250px;
   border-style: hidden !important; }
 
 .lab-member-cell {
