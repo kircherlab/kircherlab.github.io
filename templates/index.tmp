@@ -1,0 +1,32 @@
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+          <div class="post-content">
+            <header class="post-header">
+              <h1 class="post-title">Welcome to Kircher Lab!</h1>
+            </header>
+            <p>
+              <img src="assets/images/group2.jpg" style="max-width:100%;" alt="Group picture" />
+            </p>
+            <header class="post-header">
+              <h4 class="post-title">BIH Computational Genome Biology in the heart of Berlin and UzL/UKSH Regulatory Genomics at the Baltic coast</h4>
+            </header>
+            <p>
+              The Kircher Lab studies genetic variant effects throughout the genome. 
+              We are developing computational methods to predict the deleteriousness of genetic variants, study the effects of non-coding 
+              sequence alterations (e.g. using massively parallel reporter assays and functional read outs) and analyze 
+              cell-type contributions of cell-free DNA. We can be found at two locations. We are part of the <a href="https://www.bihealth.org">Berlin Institute of Health (BIH)</a> 
+              the translational research institute of <a href="https://www.charite.de/en">Charit&eacute; - Universit&auml;tsmedizin Berlin</a>, where we are <a href="contact.html">located</a> at the Charit&eacute; Campus Mitte. 
+              We are also part of the Institute for Human Genetics of the University of L&uuml;beck (UzL) and the University Medical Center Schleswig Holstein (UKSH), where we are <a href="contact.html">located</a> in the BMF building on the Campus L&uuml;beck.
+            </p>
+
+            <p>
+              If you want to learn more about our work, check our <a href="research.html">research</a> or some of our recent <a href="publications.html">publications</a>.
+            </p>
+            
+            <p>You are excited about our research topics and want to join the lab? <a href="contact.html">Please reach out.</a></p>
+            
+          </div>
+        </article>
+      </div>
+    </main>
