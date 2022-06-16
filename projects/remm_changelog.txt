@@ -1,4 +1,14 @@
 ReMM score changelog
+- 0.4:
+  - Features:
+    - For missing values using genome mean of feature for sequence and conservaton features. 1 for p-value. All other features have zero as missing value
+    - Updating DGVCount to 02/25/2020 on hg19/hg38
+    - Update dbVARCount to 10/20/2021 on hg19/hg38
+    - Update ISCApath to 11/03/2021 on hg19/hg38
+    - Replace tfbsConsSites with UCSC table encRegTfbsClustered on hg19/hg38
+  - Software:
+    - Using parSMURF for training
+  - Complete retraining of hg19 and hg38 builds (hg19: AUROC=0.993; AUPRC=0.394; hg38: AUROC=0.996; AUPRC=0.610)
 
 - 0.3.1.post1:
   - New hg38 release. Completely retrained on the new genome build.
