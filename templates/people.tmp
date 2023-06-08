@@ -228,7 +228,7 @@
 <tbody>
 <tr>
   <td class="lab-member-cell" width="33%">
-    <img src="assets/images/Kristin.jpg" style="max-width:100%;" alt="Kristin K&ouml;ï¿½hler" />
+    <img src="assets/images/Kristin.jpg" style="max-width:100%;" alt="Kristin K&ouml;¿½hler" />
   </td>
   <td class="lab-member-cell" width="67%">
     <br />
@@ -244,7 +244,7 @@
 </tbody>
 </table>
 
-    
+<!--    
 <table class="lab-member-table">
 <tbody>
 <tr>
@@ -264,10 +264,12 @@
 </tr>
 </tbody>
 </table>
+-->
 
 <h3 id="former-members">Former members</h3>
 
 <ul>
+  <li>Lea Burkard, Student intern and Master's Student (Uni Potsdam, Apr 2021 - April 2023)</li>
   <li>Theofilos Chalkiadakis, Research scientist (February 2022-January 2023)</li>
   <li>Philip Kleinert, Research scientist and PhD student (FU, April 2018 - September 2021, now at TMF e.V.)</li>
   <li>Philipp Rentzsch, Research scientist and PhD student (HU, April 2017 - March 2021, now at SciLifeLab Stockholm, Sweden)</li>
