@@ -1,0 +1,34 @@
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+          <div class="post-content">
+            <header class="post-header">
+              <h1 class="post-title">Massively Parallel Reporter Assays: From Sequence Design to Machine Learning Applications</h1>
+            </header>
+            <p>We like to announce a workshop on Massively Parallel Reporter Assays: From Sequence Design to Machine Learning Applications, which will take place at the University of L&uuml;beck from Wednesday, February 28 to Thursday, March 1, 2024.</p>
+
+			<p>This workshop is part of the <a href="https://igvf.org">IGVF consortium</a>, a network of researchers and institutions working on integrative genomics and functional validation of genetic variants. The aim of the workshop is to provide an overview of the state-of-the-art methods and challenges in the field of massively parallel reporter assays (MPRAs), which are powerful tools for measuring the functional effects of thousands of DNA sequences in parallel.</p>
+
+			<p>The workshop will cover topics such as:
+			<ul>
+			<li>Applications of MPRAs, including machine learning models for regulatory sequence effects</li>
+			<li>Sequence selection, experimental controls and optimization of MPRA designs</li>
+			<li>Effect quantification, statistical analysis of MPRA data and downstream considerations</li>
+			</ul></p>
+			
+			The workshop will feature three keynote speakers who are leading experts in their respective domains:
+			<ul>
+			<li><a href="https://sph.unc.edu/adv_profile/michael-love-phd/">Mike Love</a>, Associate Professor at the University of North Carolina, who will talk about his work on developing MPRA assays and applying statistical methods for high-throughput sequencing data.</li>
+			<li><a href="https://www.nki.nl/research/research-groups/bas-van-steensel/">Bas van Steensel</a>, Group Leader at the Netherlands Cancer Institute, who will present his research on using MPRAs to study chromatin structure and other mechanisms of gene regulation.</li>
+			<li><a href="https://github.com/Avsecz">&Zcaron;iga Avsec</a>, Research Scientist at DeepMind, who will discuss his work on using deep learning models for coding and non-coding sequences.</li>
+			</ul></p>
+
+			<p>The workshop will also include poster presentations by participants, as well as four hands-on and interactive sessions on relevant practical skills for the design and analysis of MPRAs. We will provide an open environment for discussions and networking. The workshop is intended for researchers and students who are interested in or working on MPRAs or related topics. The workshop will be held at the University of L&uuml;beck from Wednesday, February 28 to Thursday, March 1, 2024.</p>
+
+			<p>The participation fee for the workshop is 100 Euro, which includes lunch, coffee breaks, and a workshop dinner on the first day. The registration deadline is January 31, 2024. Registration will open on Dec 1st.</p>
+            
+          </div>
+        </article>
+      </div>
+    </main>
+
