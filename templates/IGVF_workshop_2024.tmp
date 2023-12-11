@@ -6,7 +6,7 @@
               <h1 class="post-title">Massively Parallel Reporter Assays: From Sequence Design to Machine Learning Applications</h1>
             </header>
             <p>We like to announce a workshop on Massively Parallel Reporter Assays: From Sequence Design to Machine Learning Applications, which will take place at the University of L&uuml;beck from Wednesday, February 28 to Friday, March 1, 2024.</p>
-
+                        <h2>Details</h2>
 			<p>This workshop is part of the <a href="https://igvf.org">IGVF consortium</a>, a network of researchers and institutions working on integrative genomics and functional validation of genetic variants. The aim of the workshop is to provide an overview of the state-of-the-art methods and challenges in the field of massively parallel reporter assays (MPRAs), which are powerful tools for measuring the functional effects of thousands of DNA sequences in parallel.</p>
 
 			<p>The workshop will cover topics such as:
@@ -23,9 +23,14 @@
 			<li><a href="https://github.com/Avsecz">&Zcaron;iga Avsec</a>, Research Scientist at DeepMind, who will discuss his work on using deep learning models for coding and non-coding sequences.</li>
 			</ul></p>
 
-			<p>The workshop will also include poster presentations by participants, as well as four hands-on and interactive sessions on relevant practical skills for the design and analysis of MPRAs. We will provide an open environment for discussions and networking. The workshop is intended for researchers and students who are interested in or working on MPRAs or related topics. The workshop will be held at the University of L&uuml;beck from Wednesday, February 28 to Friday, March 1, 2024.</p>
+			<p>The workshop will also include poster presentations by participants, as well as four hands-on and interactive sessions on relevant practical skills for the design and analysis of MPRAs. We will provide an open environment for discussions and networking. The workshop is intended for researchers and students who are interested in or working on MPRAs or related topics.</p> 
 
-			<p>The participation fee for the workshop is 100 Euro, which includes lunch, coffee breaks, and a workshop dinner on the first day. The registration deadline is January 31, 2024. Registration will open on Dec 1st.</p>
+                        <p>By organizing a European workshop for the US-centered IGVF consortium, we try to provide training for scientists inside and outside the IGVF consortium and want to contribute to the IGVF outreach efforts by introducing the IGVF mission and resources. We hope to build and foster a European network around the IGVF efforts and to connect different parts of the international research community around MPRA and regulatory variant effect community.</p>
+
+			<table border=0><tr><td width="70%"><h2>Registration</h2>The workshop will be held at the University of L&uuml;beck (CBBM Building, Marie-Curie-Stra&szlig;e 66, 23562 L&uuml;beck, Germany) from Wednesday, February 28 to Friday, March 1, 2024. The participation fee for the workshop is 100 Euro, which includes lunch, coffee breaks, and a workshop dinner on the first day. The registration deadline is January 17, 2024. Please find the registration form <a href="https://forms.gle/wpbUeFEgbnE3XKL27" target="_blank">here</a>. We will reach out to you after registration with details on how to pay the registration fee by wire transfer.</td><td><img src="assets/images/igvf_workshop_registration_form.png" width="120px"></td></tr></table>
+                        <h2>Contact</h2>
+			<p>If you have any questions, please feel free to reach out to the organizers by email (humgen.mpra-workshop-organization (at) lists.uni-luebeck.de).</p>
+                        <p><img src="assets/images/igvf_workshop_org_institutions_banner.png" align="center" width="50%"></p>
             
           </div>
         </article>
