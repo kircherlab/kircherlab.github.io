@@ -7,18 +7,18 @@
   </header>
 
   <div class="post-content">
-    <h2 id="openPositions">Open positions</h2>
-
+<!--
 <h3>Senior scientist position at UzL/UKSH</h3>
 <p>We seek a <b><a href="https://jobs.uksh.de/job/L%C3%BCbeck-Senior-Scientist-position-%28mfd%29-computational-biology-bioinformatics-Schl-23538/1074442201/">Senior Scientist</a></b> to support our Computational Biology/Bioinformatics research and trainees with their excellent technical skills at our L&uuml;beck site. Responsibilities include software engineering, machine learning, data analysis and algorithm development. Specifically, developing innovative problem-solving strategies and refining computational methods to understand genomic data and to address complex biological questions. This includes employing cutting-edge bioinformatics tools to analyze high-throughput sequencing data and working closely with interdisciplinary teams in collaborations, contributing bioinformatics expertise to various projects, further developing excisting and new projects as well as co-authoring publications and grant applications. Please apply till Sep 11th through the <a href="https://jobs.uksh.de/job/L%C3%BCbeck-Senior-Scientist-position-%28mfd%29-computational-biology-bioinformatics-Schl-23538/1074442201/">UKSH job portal</a>.</p>
 
 <h3>IGVF PostDoc position at UzL/UKSH</h3>
 <p>Join our team at the Institute of Human Genetics as a <b><a href="https://jobs.uksh.de/job/L%C3%BCbeck-PostDoc-computational-biology-bioinformatics-%28mfd%29-%28fulltime%29-Schl-23538/1116314401/">PostDoc in computational biology/bioinformatics</a></b>. Dive into the world of regulatory genomics and contribute to cutting-edge research in sequence analysis, data mining, machine learning, and functional genomics. This full-time position is part of the <a href="https://igvf.org">IGVF consortium</a> and offers a collaborative environment, training, and career development. Decode the mysteries of genetic changes and their impact on disease and adaptation. As a combination of NHGRI and DFG grants, the position would be limited till the end of May 2027, with the prospect of continuation into a second funding period of the IGVF consortium. Please apply by Sep 25th through the <a href="https://jobs.uksh.de/job/L%C3%BCbeck-PostDoc-computational-biology-bioinformatics-%28mfd%29-%28fulltime%29-Schl-23538/1116314401/">UKSH job portal</a>.</p>
+-->
+<h2 id="openPositions">Open positions</h2>
 
-<h3>Student assistants and thesis projects</h3>
 <p>We are always looking for interested student assistants with skills in programming and/or machine learning for one or two year contracts. Most of our work is performed in Python and R and we actively use Unix-based command line (bash), vscode, snakemake, GitHub and slurm in HPC environments. Student assistants will be involved across projects of the lab, like the study of different genetic variant effects as well as the the composition of cell-free DNA. This may entail their close interaction with the <a href="https://igvf.org">IGVF consortium</a> and our collaborators Jay Shendure (University of Washington, Seattle), Nadav Ahituv (UCSF) and the Human Genetics institute at Medical University of Graz. We are also supervising internships (unpaid and that are part of study programs) and thesis projects at both the Berlin and L&uuml;beck sites.</p> 
 
-<h3>Other positions</h3>
+<h2>Other positions</h2>
 <p>Generally, please contact us to enquire about potential PostDoc, PhD and student assistant positions. Positions would be located at the University of L&uuml;beck, Germany (less than hour away from Hamburg) or at the Berlin Institute of Health at Charit&eacute; in Berlin. In Berlin, we typically recruit PhD students through the IRTG 2403 and HEIBRiDS graduate programs, and potentially through a newly established graduate program by BIH. We supervise unpaid internships (that are part of study programs) and thesis projects at both the Berlin and L&uuml;beck sites.</p>
 
 </div>

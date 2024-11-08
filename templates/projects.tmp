@@ -8,13 +8,21 @@
           <p>
             Our group develops software and tools in different areas. Below we provide links to different resources. Most of our code is freely accessible and open source. If not specificially stated, we apply a <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>, i.e. our software is provided as is and without warranties of any kind:
           </p>
-
+<h2 id="VariantEffects">Genome-wide predictors of variant effects</h2>
          <p>
            <a href="https://cadd.bihealth.org/">CADD</a> - Combined Annotation Dependent Depletion (CADD) framework to score the deleteriousness of single nucleotide variants, multi-allelic substitutions and short insertion/deletions in the human genome (GRCh37/38).
           </p>
 
          <p>
            <a href="https://github.com/kircherlab/CADD-scripts">CADD scripts</a> - Offline tool to score the deleteriousness of single nucleotide variants, multi-allelic substitutions and short insertion/deletions in the human genome in an on-site installation.
+          </p>
+		  
+		  <p>
+            <a href="https://cadd-sv.bihealth.org/">CADD-SV</a> - CADD-SV is a framework to estimate the impact of Structural Variants (SVs) in the human genome. We combine various annotations to predict the deleteriousness of human deletions. We provide a webserver for easy scoring and download of pre-scored SVs.
+          </p>
+
+          <p>
+           <a href="https://github.com/kircherlab/CADD-SV">CADD-SV scripts</a> - Offline tool to score the deleteriousness of structural variants (SVs, i.e. large insertions, deletions and duplications) in the human genome.
           </p>
 
           <p>
@@ -25,30 +33,24 @@
             <a href="https://remm.bihealth.org/">ReMM Score</a> - The Regulatory Mendelian Mutation (ReMM) score was created for relevance prediction of non-coding variants (SNVs and small InDels) in the human genome (GRCh37/GRCh38) in terms of Mendelian diseases.
           </p>
 
-          <p>
-            <a href="https://cadd-sv.bihealth.org/">CADD-SV</a> - CADD-SV is a framework to estimate the impact of Structural Variants (SVs) in the human genome. We combine various annotations to predict the deleteriousness of human deletions. We provide a webserver for easy scoring and download of pre-scored SVs.
-          </p>
+<h2 id="MPRA">Functional genomic sequences and their organization</h2>
 
           <p>
-           <a href="https://github.com/kircherlab/CADD-SV">CADD-SV scripts</a> - Offline tool to score the deleteriousness of structural variants (SVs, i.e. large insertions, deletions and duplications) in the human genome.
+            <a href="https://github.com/kircherlab/BCalm">BCalm</a> ) - Method to quantify and analyse Massively Parallel Reporter Assay (MPRA) data.
           </p>
-
+          <p>
+            <a href="https://github.com/shendurelab/MPRAflow/">MPRAflow</a> (+<a href="https://mpraflow.readthedocs.io/">documentation</a>) - Nextflow-based pipeline to processes sequencing data from Massively Parallel Reporter Assays (MPRAs).
+          </p>
           <p>
             <a href="https://github.com/kircherlab/MPRAsnakeflow">MPRAsnakeflow</a> - Snakemake-based pipeline to processes sequencing data from Massively Parallel Reporter Assays (MPRAs).
-          </p>
-
-          <p>
-            <a href="https://github.com/kircherlab/hemoMIPs">hemoMIPs</a> - Molecular Inversion Probe (MIP) based targeted sequencing analysis and result reporting pipeline for hemophilia.
           </p>
 
           <p>
             <a href="https://kircherlab.bihealth.org/satMutMPRA/">Saturation mutagenesis MPRA</a> - Visualization of MPRA data for 20 disease-associated regulatory elements (enhancers and promoters) and one ultra conserved element.
           </p>
 
-          <p>
-            <a href="https://github.com/shendurelab/MPRAflow/">MPRAflow</a> (+<a href="https://mpraflow.readthedocs.io/">documentation</a>) - Nextflow-based pipeline to processes sequencing data from Massively Parallel Reporter Assays (MPRAs).
-          </p>
 
+<h2 id="MolecularAssaySupport">Supporting the development of molecular assays</h2>
           <p>
             <a href="https://github.com/kircherlab/cfDNA">Cell-free DNA workflows</a> - Workflows for analyzing epigenetic signals captured by fragmentation patterns of cell-free DNA.
           </p>
@@ -58,11 +60,16 @@
           </p>
 
           <p>
+            <a href="https://bioinf.eva.mpg.de/freeIbis/">freeIBIS</a> - reimplementation of IBIS using an open source SVM library for accurate, fast and easy-to-use base calling on the Illumina sequencing system
+          </p>
+		  
+          <p>
             <a href="https://bioinf.eva.mpg.de/Ibis/">IBIS</a> - accurate, fast and easy-to-use base caller for the Illumina sequencing system
           </p>
 
+
           <p>
-            <a href="https://bioinf.eva.mpg.de/freeIbis/">freeIBIS</a> - reimplementation of IBIS using an open source SVM library for accurate, fast and easy-to-use base calling on the Illumina sequencing system
+            <a href="https://github.com/kircherlab/hemoMIPs">hemoMIPs</a> - Molecular Inversion Probe (MIP) based targeted sequencing analysis and result reporting pipeline for hemophilia.
           </p>
 
           <p>
