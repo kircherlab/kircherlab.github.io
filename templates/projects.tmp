@@ -36,7 +36,7 @@
 <h2 id="MPRA">Functional genomic sequences and their organization</h2>
 
           <p>
-            <a href="https://github.com/kircherlab/BCalm">BCalm</a> ) - Method to quantify and analyse Massively Parallel Reporter Assay (MPRA) data.
+            <a href="https://github.com/kircherlab/BCalm">BCalm</a> - Method to quantify and analyse Massively Parallel Reporter Assay (MPRA) data.
           </p>
           <p>
             <a href="https://github.com/shendurelab/MPRAflow/">MPRAflow</a> (+<a href="https://mpraflow.readthedocs.io/">documentation</a>) - Nextflow-based pipeline to processes sequencing data from Massively Parallel Reporter Assays (MPRAs).
