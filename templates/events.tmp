@@ -6,11 +6,11 @@
     </header>
 
     <!-- Grid Container -->
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px;">
+    <div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 20px; margin-top: 20px;">
       <!-- Lab retreat 2024: Ludwigslust -->
       <article class="post" style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f9f9f9; border-radius: 5px;">
         <header class="post-header">
-          <h2 class="post-title">Lab retreat 2024: Ludwigslust</h2>
+          <h3 class="post-title">Lab retreat 2024: Ludwigslust</h3>
         </header>
         <figure>
           <img src="assets/images/labretreat2024.jpg" style="max-width:100%;" alt="Event 1 Picture" />
@@ -21,7 +21,7 @@
       <!-- Post 2 -->
       <article class="post" style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f9f9f9; border-radius: 5px;">
         <header class="post-header">
-          <h2 class="post-title">MPRA Workshop: L&uuml;beck</h2>
+          <h3 class="post-title">MPRA Workshop: L&uuml;beck</h3>
         </header>
         <figure>
           <img src="assets/images/mpraworkshop2024.jpg" style="max-width:100%;" alt="Event 2 Picture" />
@@ -32,7 +32,7 @@
       <!-- Post 3 -->
       <article class="post" style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f9f9f9; border-radius: 5px;">
         <header class="post-header">
-          <h2 class="post-title">Lab retreat 2023: Hamburg</h2>
+          <h3 class="post-title">Lab retreat 2023: Hamburg</h3>
         </header>
         <figure>
           <img src="assets/images/labretreat2023.jpg" style="max-width:100%;" alt="Event 3 Picture" />
@@ -43,7 +43,7 @@
       <!-- Post 4 -->
       <article class="post" style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f9f9f9; border-radius: 5px;">
         <header class="post-header">
-          <h2 class="post-title">Lab retreat 2022: L&uuml;beck</h2>
+          <h3 class="post-title">Lab retreat 2022: L&uuml;beck</h3>
         </header>
         <figure>
           <img src="assets/images/labretreat2022.jpg" style="max-width:100%;" alt="Event 4 Picture" />
@@ -54,7 +54,7 @@
       <!-- Post 5 -->
       <article class="post" style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f9f9f9; border-radius: 5px;">
         <header class="post-header">
-          <h2 class="post-title">Lab outing 2021: Berlin - Humboldt Forum</h2>
+          <h3 class="post-title">Lab outing 2021: Berlin - Humboldt Forum</h3>
         </header>
         <figure>
           <img src="assets/images/labretreat2021.jpg" style="max-width:100%;" alt="Event 5 Picture" />
@@ -65,7 +65,7 @@
       <!-- Post 6 -->
       <article class="post" style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f9f9f9; border-radius: 5px;">
         <header class="post-header">
-          <h2 class="post-title">Lab outing 2020: Berlin - Tiergarten</h2>
+          <h3 class="post-title">Lab outing 2020: Berlin - Tiergarten</h3>
         </header>
         <figure>
           <img src="assets/images/labretreat2020.jpg" style="max-width:100%;" alt="Event 6 Picture" />
@@ -75,7 +75,7 @@
 	  
 	  <article class="post" style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f9f9f9; border-radius: 5px;">
         <header class="post-header">
-          <h2 class="post-title">Lab retreat 2019: Milan</h2>
+          <h3 class="post-title">Lab retreat 2019: Milan</h3>
         </header>
         <figure>
           <img src="assets/images/labretreat2019.jpg" style="max-width:100%;" alt="Event 6 Picture" />
