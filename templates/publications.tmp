@@ -5,53 +5,68 @@
   <header class="post-header">
     <h1 class="post-title">Publications</h1>
   </header>
-  <div class="post-content"><p>This is a selection of publications from members of the lab. For a complete list, please see the <a href="https://orcid.org/">ORCID profiles</a> of individual members or look up their publications on <a href="https://www.ncbi.nlm.nih.gov/pubmed/">PubMed</a>, <a href="https://scholar.google.com/">Google Scholar</a> or other services like <a href="https://www.scopus.com/search/form.uri">Scopus</a> or <a href="https://apps.webofknowledge.com/">Web of Sciences</a>.</p>
+  <div class="post-content"><p>This is a selection of publications from members of the lab, typically those with at least two lab members. For a complete list, please see the <a href="https://orcid.org/">ORCID profiles</a> of individual members or look up their publications on <a href="https://www.ncbi.nlm.nih.gov/pubmed/">PubMed</a>, <a href="https://scholar.google.com/">Google Scholar</a> or other services like <a href="https://www.scopus.com/search/form.uri">Scopus</a> or <a href="https://apps.webofknowledge.com/">Web of Sciences</a>.</p>
   <p>&nbsp;</p>
 
+
+<h2 id="2025">2025</h2>
+<p>
+  <strong>Using individual barcodes to increase quantification power of massively parallel reporter assays.</strong><br />
+  <strong>P. Keukeleire</strong>, J.D. Rosen, <strong>A. G&ouml;bel-Knapp, K. Salomon, M. Schubach, M. Kircher</strong><br />
+  <a href="https://dx.doi.org/10.1186/s12859-025-06065-9">BMC Bioinformatics 2025</a>
+</p>
+ 
+<p>
+  <strong>Massively parallel characterization of transcriptional regulatory elements.</strong><br />
+  V. Agarwal, F. Inoue, <strong>M. Schubach</strong>, D. Penzar D, B.K. Martin, <strong>P.M. Dash, P. Keukeleire</strong>, Z. Zhang, A. Sohota, J. Zhao, I. Georgakopoulos-Soares, W.S. Noble, G.G. Yard&#x131;mc&#x131;, I.V. Kulakovskiy, <strong>M. Kircher</strong>, J. Shendure, N. Ahituv<br />
+  <a href="https://dx.doi.org/10.1038/s41586-024-08430-9">Nature 2025</a>
+</p>
+
+<p>
+  <strong>cfDNA UniFlow: a unified preprocessing pipeline for cell-free DNA data from liquid biopsies.</strong><br />
+  <strong>S. R&ouml;ner, L. Burkard</strong>, M.R. Speicher, <strong>M. Kircher</strong><br />
+  <a href="https://dx.doi.org/10.1093/gigascience/giae102">Gigascience 2024</a>
+</p>
+
+  
 <h2 id="2024">2024</h2>
 
 <p>
   <strong>Deciphering the impact of genomic variation on function.</strong><br />
   <strong>IGVF Consortium</strong><br />
-  <a href="https://dx.doi.org/10.1038/s41586-024-07510-0">Nature 2024</a>.
-</p>
-
-<p>
-  <strong>STIGMA: Single-cell tissue-specific gene prioritization using machine learning.</strong><br />
-  S. Balachandran, C. A. Prada-Medina, M. A. Mensah, J. Glaser, N. Kakar, I. Nagel, J. Pozojevic, E. Audain, M. P. Hitz, <strong>M. Kircher</strong>, V. KA. Sreenivasan, M. Spielmann</strong><br />
-  <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03113-6">American Journal of Human Genetics 2024</a>.
+  <a href="https://dx.doi.org/10.1038/s41586-024-07510-0">Nature 2024</a>
 </p>
 
 <p>
   <strong>CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods.</strong><br />
   Critical Assessment of Genome Interpretation Consortium<br />
-  <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03113-6">Genome Biology 2024</a>.
+  <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03113-6">Genome Biology 2024</a>
 </p>
 
 <p>
   <strong>CADD v1.7: using protein language models, regulatory CNNs and other nucleotide-level scores to improve genome-wide variant predictions.</strong><br />
    <strong>M. Schubach</strong>, <strong>T. Maass</strong>, <strong>L. Nazaretyan</strong>, <strong>S. Röner</strong>, <strong>M. Kircher</strong><br />
-  <a href="https://doi.org/10.1093/nar/gkad989">Nucleic Acids Research 2024</a>.
+  <a href="https://doi.org/10.1093/nar/gkad989">Nucleic Acids Research 2024</a>
 </p>
 
 <h2 id="2023">2023</h2>
 
 <p>
   <strong>GCparagon: evaluating and correcting GC biases in cell-free DNA at the fragment level.</strong><br />
-  Spiegl B, Kapidzic F, <strong>R&ouml;ner S, Kircher M</strong>, Speicher MR.<br />
-  <a href="https://academic.oup.com/nargab/article-lookup/doi/10.1093/nargab/lqad102">NAR Genomics and Bioinformatics 2023</a>.
+  B. Spiegl, F. Kapidzic, <strong>S. R&ouml;ner, M. Kircher</strong>, M.R. Speicher<br />
+  <a href="https://academic.oup.com/nargab/article-lookup/doi/10.1093/nargab/lqad102">NAR Genomics and Bioinformatics 2023</a>
 </p>
 
 <p>
   <strong>Predicting the pathogenicity of missense variants using features derived from AlphaFold2.</strong><br />
-   A. Schmidt, <strong>S. Röner</strong>, K. Mai, H. Klinkhammer, <strong>M. Kircher</strong>, K. U. Ludwig<br />
-  <a href="https://academic.oup.com/bioinformatics/article/39/5/btad280/7135835">Bioinformatics 2023</a>.
+   A. Schmidt, <strong>S. Röner</strong>, K. Mai, H. Klinkhammer, <strong>M. Kircher</strong>, K.U. Ludwig<br />
+  <a href="https://academic.oup.com/bioinformatics/article/39/5/btad280/7135835">Bioinformatics 2023</a>
 </p>
 
 <p>
   <strong>The Regulatory Mendelian Mutation score for GRCh38.</strong><br />
   <strong>M. Schubach, L. Nazaretyan, M. Kircher</strong><br />
-  <a href="https://doi.org/10.1093/gigascience/giad024">GigaScience 2023</a>.
+  <a href="https://doi.org/10.1093/gigascience/giad024">GigaScience 2023</a>
 </p>
 
 <h2 id="2022">2022</h2>
@@ -59,25 +74,25 @@
 <p>
   <strong>Boosting tissue-specific prediction of active cis-regulatory regions through deep learning and Bayesian optimization techniques.</strong><br />
   L. Cappelletti, A. Petrini, J. Gliozzo, E. Casiraghi, <strong>M. Schubach, M. Kircher</strong>, G. Valentini<br />
-  <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04582-5">BMC Bioinformatics 2022</a>.
+  <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04582-5">BMC Bioinformatics 2022</a>
 </p>
 
 <p>
   <strong>Systematic assays and resources for the functional annotation of non-coding variants.</strong><br />
   <strong>M. Kircher</strong> &amp; K.U. Ludwig<br />
-  <a href="https://www.degruyter.com/document/doi/10.1515/medgen-2022-2161/pdf">Medizinische Genetik 2022</a>.
+  <a href="https://www.degruyter.com/document/doi/10.1515/medgen-2022-2161/pdf">Medizinische Genetik 2022</a>
 </p>
 
 <p>
   <strong>Computational and experimental methods for classifying variants of unknown clinical significance.</strong><br />
   M. Spielmann &amp; <strong>M. Kircher</strong>.<br />
-  <a href="http://molecularcasestudies.cshlp.org/content/8/3/a006196.full">Cold Spring Harb Mol Case Stud 2022</a>.
+  <a href="http://molecularcasestudies.cshlp.org/content/8/3/a006196.full">Cold Spring Harb Mol Case Stud 2022</a>
 </p>
 
 <p>
   <strong>A framework to score the effects of structural variants in health and disease.</strong><br />
   <strong>P. Kleinert &amp; M. Kircher</strong>.<br />
-  <a href="https://genome.cshlp.org/content/early/2022/02/23/gr.275995.121.long">Genome Research 2022</a>.
+  <a href="https://genome.cshlp.org/content/early/2022/02/23/gr.275995.121.long">Genome Research 2022</a>
 </p>
 
 
@@ -86,7 +101,7 @@
 <p>
   <strong>CADD-Splice - improving genome-wide variant effect prediction using deep learning-derived splice scores.</strong><br />
   <strong>P. Rentzsch</strong>, <strong>M. Schubach</strong>, J. Shendure, <strong>M. Kircher</strong>.<br />
-  <a href="https://doi.org/10.1186/s13073-021-00835-9">Genome Medicine 2021</a>.
+  <a href="https://doi.org/10.1186/s13073-021-00835-9">Genome Medicine 2021</a>
 </p>
 
 <h2 id="2020">2020</h2>
@@ -94,50 +109,54 @@
 <p>
   <strong>lentiMPRA and MPRAflow for high-throughput functional characterization of gene regulatory elements.</strong><br />
   M.G. Gordon*, F. Inoue*, B. Martin*, <strong>M. Schubach*</strong>, V. Agarwal, S. Whalen, S. Feng, J. Zhao, T. Ashuach, R. Ziffra, A. Kreimer, I. Georgakopoulous-Soares, N. Yosef, C.J. Ye, K.S. Pollard, J. Shendure, <strong>M. Kircher</strong>, N. Ahituv.<br />
-  <a href="https://doi.org/10.1038/s41596-020-0333-5">Nature Protocols 2020</a>.
+  <a href="https://doi.org/10.1038/s41596-020-0333-5">Nature Protocols 2020</a>
 </p>
 
 <p>
   <strong>HemoMIPs - Automated analysis and result reporting pipeline for targeted sequencing data.</strong><br />
   <strong>P. Kleinert</strong>, B. Martin, <strong>M. Kircher</strong>.<br />
-  <a href="https://doi.org/10.1371/journal.pcbi.1007956">PLOS Computational Biology 2020</a>.
+  <a href="https://doi.org/10.1371/journal.pcbi.1007956">PLOS Computational Biology 2020</a>
 </p>
     
 <p>
   <strong>The impact of different negative training data on regulatory sequence predictions.</strong><br />
   <strong> LM. Krützfeldt</strong>, <strong>M. Schubach</strong>, <strong>M. Kircher</strong>.<br />
-  <a href=" https://doi.org/10.1371/journal.pone.0237412">PLOS ONE 2020</a>.
+  <a href=" https://doi.org/10.1371/journal.pone.0237412">PLOS ONE 2020</a>
 </p>
     
 <h2 id="2019">2019</h2>
 
-<p><strong>Saturation mutagenesis of twenty disease-associated regulatory elements at single base-pair resolution.</strong><br />
-<strong>M. Kircher*</strong>, C. Xiong*, B. Martin*, <strong>M. Schubach*</strong>, F. Inoue, R. JA. Bell, J. F. Costello, J. Shendure &amp; N. Ahituv.<br />
-<a href="https://www.nature.com/articles/s41467-019-11526-w">Nature Communications 2019</a>.</p>   
+<p>
+  <strong>Saturation mutagenesis of twenty disease-associated regulatory elements at single base-pair resolution.</strong><br />
+  <strong>M. Kircher*</strong>, C. Xiong*, B. Martin*, <strong>M. Schubach*</strong>, F. Inoue, R. JA. Bell, J. F. Costello, J. Shendure &amp; N. Ahituv.<br />
+  <a href="https://www.nature.com/articles/s41467-019-11526-w">Nature Communications 2019</a>
+</p>   
 
 <h2 id="2018">2018</h2>
 
-<p><strong>CADD: predicting the deleteriousness of variants throughout the human genome.</strong><br />
-<strong>P. Rentzsch</strong>, D. Witten, G.M. Cooper, J. Shendure, <strong>M. Kircher</strong>.<br />
-<a href="https://academic.oup.com/nar/article/47/D1/D886/5146191">Nucleic Acids Research 2018</a>.</p>
+<p>
+  <strong>CADD: predicting the deleteriousness of variants throughout the human genome.</strong><br />
+  <strong>P. Rentzsch</strong>, D. Witten, G.M. Cooper, J. Shendure, <strong>M. Kircher</strong>.<br />
+  <a href="https://academic.oup.com/nar/article/47/D1/D886/5146191">Nucleic Acids Research 2018</a>
+</p>
 
 <h2 id="2017">2017</h2>
 
 <p><strong>A systematic comparison reveals substantial differences in chromosomal versus episomal encoding of enhancer activity.</strong><br />
 F. Inoue*, <strong>M. Kircher*</strong>, B. Martin, G.M. Cooper, D.M. Witten, M.T. McManus, N. Ahituv, J. Shendure.<br />
-<a href="https://genome.cshlp.org/content/27/1/38.long">Genome Research 2017</a>.</p>
+<a href="https://genome.cshlp.org/content/27/1/38.long">Genome Research 2017</a></p>
 
 <h2 id="2016">2016</h2>
        
 <p><strong>Cell-free DNA comprises an in vivo nucleosome footprint that informs its tissues-of-origin.</strong><br />
 M.W. Snyder*, <strong>M. Kircher*</strong>, A.J. Hill, R.M. Daza, and J. Shendure.<br />
-<a href="https://www.cell.com/fulltext/S0092-8674(15)01569-X">Cell 2016</a>.</p>
+<a href="https://www.cell.com/fulltext/S0092-8674(15)01569-X">Cell 2016</a></p>
     
 <h2 id="2014">2014</h2>
      
 <p><strong>A general framework for estimating the relative pathogenicity of human genetic variants.</strong><br />
 <strong>M. Kircher*</strong>, D.M. Witten*, P. Jain, B.J. O'Roak, G.M. Cooper, and J. Shendure.<br />
-<a href="https://www.nature.com/articles/ng.2892">Nature Genetics 2014</a>.</p>
+<a href="https://www.nature.com/articles/ng.2892">Nature Genetics 2014</a></p>
 
  <h2 id="2012">2012</h2>
     
@@ -147,25 +166,25 @@ M. Meyer*, <strong>M. Kircher*</strong>, M. Gansauge, H. Li, F. Racimo, S. Malli
 
 <p><strong>Double indexing overcomes inaccuracies in multiplex sequencing on the Illumina platform.</strong><br />
 <strong>M. Kircher</strong>, S. Sawyer, and M. Meyer.<br />
-<a href="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkr771">Nucleic Acids Research 2012</a>.</p>
+<a href="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkr771">Nucleic Acids Research 2012</a></p>
 
  <h2 id="2011">2011</h2>
     
 <p><strong>Addressing challenges in the production and analysis of Illumina sequencing data.</strong><br />
 <strong>M. Kircher</strong>, P. Heyn, and J. Kelso.<br />
-<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-12-382">BMC Genomics 2011</a>.</p>
+<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-12-382">BMC Genomics 2011</a></p>
 
  <h2 id="2010">2010</h2>
 
 <p><strong>Genetic history of an archaic hominin group from Denisova Cave in Siberia.</strong><br />
 D. Reich*, R.E. Green*, <strong>M. Kircher*</strong>, J. Krause*, N. Patterson*, E.Y. Durand*, B. Viola*, A.W. Briggs, U. Stenzel, P.L.F. Johnson, T. Maricic, J.M. Good, T. Marques-Bonet, C. Alkan, Q. Fu, S. Mallick, H. Li, M. Meyer, E.E. Eichler, M. Stoneking, M. Richards, S. Talamo, M.V. Shunkov, A.P. Derevianko, J.-J. Hublin, J. Kelso, M. Slatkin, and S. Pääbo.<br />
-<a href="https://www.nature.com/articles/nature09710">Nature 2010</a>.</p>
+<a href="https://www.nature.com/articles/nature09710">Nature 2010</a></p>
 
  <h2 id="2009">2009</h2>
  
 <p><strong>Improved base calling for the Illumina Genome Analyzer using machine learning strategies.</strong><br />
 <strong>M. Kircher</strong>, U. Stenzel, and J. Kelso.<br />
-<a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-8-r83">Genome Biology 2009</a>.</p>
+<a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-8-r83">Genome Biology 2009</a></p>
 
   </div>
 
