@@ -6,21 +6,16 @@ Kircher Lab Website: Computational Genome Biology at BIH and Regulatory Genomics
 
 - Pretty much all pages were using the same header, banner and footer and it was difficult to keep them consistant
 - Therefore, the actual page content was separated from these files in the templates folder
-- Please edit files in templates and then create the html files
-
-```
-cat templates/header_404.tmp templates/banner.tmp templates/404.tmp templates/footer.tmp > 404.html
-
-for i in impressum contact people research projects publications; do cat templates/header.tmp templates/banner.tmp templates/${i}.tmp templates/footer.tmp > ${i}.html; done
-
-for i in templates/people/*.tmp; do 
-    name=$(basename $i .tmp);
-    cat templates/header.tmp templates/banner.tmp ${i} templates/footer.tmp > people/${name}.html; 
-done
-
-for i in templates/projects/*.tmp; do 
-    name=$(basename $i .tmp);
-    cat templates/header.tmp templates/banner.tmp ${i} templates/footer.tmp > projects/${name}.html; 
-done
-
-```
+- Please edit files in templates
+- A GuitHub action will automatically create the HTML files from the templates, after pushed to the master branch, and commit them to the repository
+- The Github action is defined in `.github/workflows/update-html.yml`
+- Right now the following tmp files will be generated into HTML files:
+- `templates/404.tmp` → `404.html`
+- `templates/impressum.tmp` → `impressum.html`
+- `templates/contact.tmp` → `contact.html`
+- `templates/people.tmp` → `people.html`
+- `templates/research.tmp` → `research.html`
+- `templates/projects.tmp` → `projects.html`
+- `templates/publications.tmp` → `publications.html`
+- `templates/people/*.tmp` → `people/*.html`
+- `templates/projects/*.tmp` → `projects/*.html`
