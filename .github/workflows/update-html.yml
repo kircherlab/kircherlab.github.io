@@ -1,0 +1,48 @@
+---
+name: Update HTML Files on Master
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-html:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip action]')" # Prevent infinite loop
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up git user
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update HTML files
+        run: |
+          cat templates/header_404.tmp templates/banner.tmp templates/404.tmp templates/footer.tmp > 404.html
+
+          for i in impressum contact people research projects publications; do
+            cat templates/header.tmp templates/banner.tmp templates/${i}.tmp templates/footer.tmp > ${i}.html
+          done
+
+          for i in templates/people/*.tmp; do
+            name=$(basename $i .tmp)
+            cat templates/header.tmp templates/banner.tmp ${i} templates/footer.tmp > people/${name}.html
+          done
+
+          for i in templates/projects/*.tmp; do
+            name=$(basename $i .tmp)
+            cat templates/header.tmp templates/banner.tmp ${i} templates/footer.tmp > projects/${name}.html
+          done
+
+      - name: Commit and push changes if needed
+        run: |
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Update HTML files [skip action]"
+            git push origin master
+          fi
