@@ -25,7 +25,7 @@ jobs:
         run: |
           cat templates/header_404.tmp templates/banner.tmp templates/404.tmp templates/footer.tmp > 404.html
 
-          for i in impressum contact people research projects publications; do
+          for i in index impressum contact people research projects publications IGVF_workshop_2024; do
             cat templates/header.tmp templates/banner.tmp templates/${i}.tmp templates/footer.tmp > ${i}.html
           done
 

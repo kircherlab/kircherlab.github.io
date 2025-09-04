@@ -11,11 +11,13 @@ Kircher Lab Website: Computational Genome Biology at BIH and Regulatory Genomics
 - The Github action is defined in `.github/workflows/update-html.yml`
 - Right now the following tmp files will be generated into HTML files:
   - `templates/404.tmp` → `404.html`
+  - `templates/index.tmp` → `index.html`
   - `templates/impressum.tmp` → `impressum.html`
   - `templates/contact.tmp` → `contact.html`
   - `templates/people.tmp` → `people.html`
   - `templates/research.tmp` → `research.html`
   - `templates/projects.tmp` → `projects.html`
   - `templates/publications.tmp` → `publications.html`
+  - `templates/IGVF_workshop_2024.tmp` → `IGVF_workshop_2024.html`
   - `templates/people/*.tmp` → `people/*.html`
   - `templates/projects/*.tmp` → `projects/*.html`
