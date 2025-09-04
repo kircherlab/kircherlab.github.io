@@ -38,6 +38,10 @@ jobs:
             name=$(basename $i .tmp)
             cat templates/header.tmp templates/banner.tmp ${i} templates/footer.tmp > projects/${name}.html
           done
+      
+      - name: Set up git authentication
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
       - name: Commit and push changes if needed
         run: |
