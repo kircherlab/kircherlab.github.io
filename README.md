@@ -15,7 +15,7 @@ for i in impressum contact people research projects publications; do cat templat
 
 for i in templates/people/*.tmp; do 
     name = $(basename $i .tmp);
-    cat templates/header.tmp templates/banner.tmp templates/people/${i}.tmp templates/footer.tmp > people/${i}.html; 
+    cat templates/header.tmp templates/banner.tmp templates/people/${i}.tmp templates/footer.tmp > people/${name}.html; 
 done
 
 ```
