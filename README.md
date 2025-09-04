@@ -18,4 +18,9 @@ for i in templates/people/*.tmp; do
     cat templates/header.tmp templates/banner.tmp templates/people/${i}.tmp templates/footer.tmp > people/${name}.html; 
 done
 
+for i in templates/projects/*.tmp; do 
+    name = $(basename $i .tmp);
+    cat templates/header.tmp templates/banner.tmp templates/people/${i}.tmp templates/footer.tmp > projects/${name}.html; 
+done
+
 ```

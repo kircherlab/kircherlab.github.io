@@ -1,0 +1,148 @@
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+        <article class="post">
+
+            <header class="post-header">
+                <h1 class="post-title">ReMM Score</h1>
+            </header>
+
+            <div class="post-content">
+                <p>
+                    The <strong>Re</strong>gulatory <strong>M</strong>endelian <strong>M</strong>utation (ReMM) score
+                    was created for relevance prediction of non-coding variations (SNVs and small InDels) in the human
+                    genome (hg19/hg38) in terms of Mendelian diseases.
+                </p>
+
+                <h2 id="website">Website</h2>
+                <p>
+                    We have an external <a href="https://remm.bihealth.org">website</a> for scoring positions, ranges,
+                    and VCF files. It contains an API and UCSC tracks are available. Please visit <a
+                        href="https://remm.bihealth.org">https://remm.bihealth.org</a>. We recommend this as a major
+                    source for ReMM.
+                </p>
+
+                <h2 id="usage">Usage</h2>
+                <p>
+                    The ReMM score is genome position wise (nucleotide changes are neglected). We precomputed all
+                    positions in the human genome (hg19 and hg38 release) and stored the values in a tabix file
+                    (1-based). The scores ranging from 0 (non-deleterious) to 1 (deleterious).
+                </p>
+
+                <p>
+                    If you want to use the ReMM score together with the Genomiser, please have a look at the <a
+                        href="https://exomiser.github.io/Exomiser/">Exomiser framework manual</a>
+                </p>
+
+                <h2 id="download">Download</h2>
+                <ul>
+                    <li>Changelog: <a href="remm_changelog.txt">remm_changelog.txt</a></li>
+                </ul>
+
+                <p>
+                    <strong>Version 0.4:</strong>
+                </p>
+
+                <p>
+                    <a href="https://doi.org/10.5281/zenodo.6576087"><img
+                            src="https://zenodo.org/badge/DOI/10.5281/zenodo.6576087.svg" alt="DOI"></a>
+                </p>
+
+                <ul>
+                    <li>Tabix file hg38: <a
+                            href="https://zenodo.org/record/6576087/files/ReMM.v0.4.hg38.tsv.gz">ReMM.v0.4.hg38.tsv.gz</a>
+                        (md5:2f8c8fcc75ea29f6798621d0446fe194)</li>
+                    <li>Tabix index file hg38: <a
+                            href="https://zenodo.org/record/6576087/files/ReMM.v0.4.hg38.tsv.gz.tbi">ReMM.v0.4.hg38.tsv.gz.tbi</a>
+                        (md5:c477b123abbe72c4aa66bf3abc18d9ab)</li>
+                    <li>Tabix file hg19: <a
+                            href="https://zenodo.org/record/6576087/files/ReMM.v0.4.hg19.tsv.gz">ReMM.v0.4.hg19.tsv.gz</a>
+                        (md5:ff7b71bb1711eaa4864c1cfacadb2cbe)</li>
+                    <li>Tabix index file hg19: <a
+                            href="https://zenodo.org/record/6576087/files/ReMM.v0.4.hg19.tsv.gz.tbi">ReMM.v0.4.hg19.tsv.gz.tbi</a>
+                        (md5:baf5ec990123343ba3ad58014a2b109d)</li>
+                </ul>
+
+                <p>
+                    <strong>Version 0.3.1.post1:</strong>
+                </p>
+
+                <p>
+                    <a href="https://doi.org/10.5281/zenodo.4768448"><img
+                            src="https://zenodo.org/badge/DOI/10.5281/zenodo.4768448.svg" alt="DOI"></a>
+                </p>
+
+                <ul>
+                    <li>Tabix file hg38: <a
+                            href="https://zenodo.org/record/4768448/files/ReMM.v0.3.1.post1.hg38.tsv.gz">ReMM.v0.3.1.post1.hg38.tsv.gz</a>
+                    </li>
+                    <li>Tabix index file hg38: <a
+                            href="https://zenodo.org/record/4768448/files/ReMM.v0.3.1.post1.hg38.tsv.gz.tbi">ReMM.v0.3.1.post1.hg38.tsv.gz.tbi</a>
+                    </li>
+                    <li>Tabix file hg19: <a
+                            href="https://zenodo.org/record/4768448/files/ReMM.v0.3.1.post1.hg19.tsv.gz">ReMM.v0.3.1.post1.hg19.tsv.gz</a>
+                    </li>
+                    <li>Tabix index file hg19: <a
+                            href="https://zenodo.org/record/4768448/files/ReMM.v0.3.1.post1.hg19.tsv.gz.tbi">ReMM.v0.3.1.post1.hg19.tsv.gz.tbi</a>
+                    </li>
+                    <li>MD5 checksum: <a
+                            href="https://zenodo.org/record/4768448/files/ReMM.v0.3.1.post1.md5">ReMM.v0.3.1.post1.md5</a>
+                    </li>
+                </ul>
+
+                <p>
+                    <strong>Version 0.3.1:</strong>
+                </p>
+
+                <p>
+                    <a href="https://doi.org/10.5281/zenodo.1197579"><img
+                            src="https://zenodo.org/badge/DOI/10.5281/zenodo.1197579.svg" alt="DOI"></a>
+                </p>
+
+                <ul>
+                    <li>Tabix file: <a
+                            href="https://zenodo.org/record/1197579/files/ReMM.v0.3.1.tsv.gz">ReMM.v0.3.1.tsv.gz</a>
+                    </li>
+                    <li>Tabix index file: <a
+                            href="https://zenodo.org/record/1197579/files/ReMM.v0.3.1.tsv.gz.tbi">ReMM.v0.3.1.tsv.gz.tbi</a>
+                    </li>
+                    <li>MD5 checksum: <a
+                            href="https://zenodo.org/record/1197579/files/ReMM.v0.3.1.md5">ReMM.v0.3.1.md5</a></li>
+                </ul>
+
+                <p>
+                    <strong>Version 0.3:</strong>
+                </p>
+
+                <p>
+                    <a href="https://doi.org/10.5281/zenodo.1198663"><img
+                            src="https://zenodo.org/badge/DOI/10.5281/zenodo.1198663.svg" alt="DOI"></a>
+                </p>
+
+                <ul>
+                    <li>Tabix file: <a
+                            href="https://zenodo.org/record/1198663/files/ReMM.v0.3.tsv.gz">ReMM.v0.3.tsv.gz</a></li>
+                    <li>Tabix index file: <a
+                            href="https://zenodo.org/record/1198663/files/ReMM.v0.3.tsv.gz.tbi">ReMM.v0.3.tsv.gz.tbi</a>
+                    </li>
+                </ul>
+
+                <h2 id="citation">Citation</h2>
+
+                <p>
+                    If you you the ReMM Score please cite the following:
+                </p>
+
+                <div class="highlighter-rouge">
+                    <div class="highlight">
+                        <pre class="highlight"><code>Damian Smedley,  Max Schubach,  Julius OB Jacobsen,  Sebastian Köhler,  Tomasz Zemojtel, Malte Spielmann, Marten Jäger, Harry Hochheiser, Nicole L Washington, Julie A McMurry, Melissa A Haendel, Christopher J Mungall, Suzanna E Lewis, Tudor Groza, Giorgio Valentini, Peter N Robinson. (2016). 
+A Whole-Genome Analysis Framework for Effective Identification of Pathogenic Regulatory Variants in Mendelian Disease. 
+The American Journal of Human Genetics, 99(3), 595–606. http://doi.org/10.1016/j.ajhg.2016.07.005</code></pre>
+                    </div>
+                </div>
+            </div>
+
+
+        </article>
+
+    </div>
+</main>

@@ -1,0 +1,36 @@
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+        <article class="post">
+
+            <header class="post-header">
+                <h1 class="post-title">CADD-SV Score</h1>
+            </header>
+
+            <div class="post-content">
+                <p>
+                    In recent years, we saw rapid technological advances in the identification of structural variants
+                    (SVs) in the human genome, however the interpretation of these variants remains challenging. Several
+                    methods were developed that utilize individual mechanistic principles like the deletion of coding
+                    sequence or 3D genome architecture disruptions. However, a comprehensive tool that uses the broad
+                    spectrum of available annotations for estimating the effect of SVs and prioritize functional
+                    variants in health and disease is missing. Here we introduce CADD-SV, a method to retrieve and
+                    integrate a wide set of annotations across the range and in the vicinity of SVs for functional
+                    scoring. So far, supervised learning approaches were of very limited power for this kind of
+                    application, due to a very small number of functionally annotated (e.g. pathogenic/benign) SV sets.
+                    We overcome this problem by using a surrogate training-objective, the combined annotation dependent
+                    depletion (CADD) of functional variants in evolutionary derived variant sets. Our tool computes
+                    summary statistics and uses a trained linear model to differentiate deleterious from neutral
+                    structural variants. We use human and chimpanzee derived alleles as proxy-neutral and contrast them
+                    with matched simulated variants as proxy-pathogenic, an approach that has proven powerful in the
+                    interpretation of SNVs and short InDels (Kircher & Witten et al, 2014). In a proof-of-principle
+                    study, we show that CADD-SV scores correlate with known pathogenic variants in individual genomes as
+                    well as allelic diversity observed across the population. </p>
+                <p>
+                    <a href="https://kircherlab.bihealth.org/download/CADD-SV/">Here</a> we provide pre-scored deletions
+                    from the initial <a href="https://www.nature.com/articles/s41586-020-2287-8">gnomAD-SV</a> release.
+                </p>
+            </div>
+        </article>
+
+    </div>
+</main>
