@@ -1,0 +1,82 @@
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <article class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">Dr. Max Schubach</h1>
+      </header>
+
+      <div align="middle">
+        <img src="/assets/images/Max.jpg" style="max-width:100%;" alt="Dr. Max Schubach" />
+      </div>
+
+      <div class="post-content">
+        <h4 id="cv">CV</h4>
+
+        <table>
+          <tbody>
+            <tr>
+              <td style="text-align: right">07/2017–present</td>
+              <td style="text-align: left"><strong>Postdoc</strong></td>
+              <td style="text-align: left"><em>Computational Genome Biology, <a href="https://www.bihealth.org">Berlin Institute of Health (BIH)</a>, Berlin.</em></td>
+            </tr>
+            <tr>
+              <td style="text-align: right">09/2014–06/2017</td>
+              <td style="text-align: left"><strong>PhD Student</strong></td>
+              <td style="text-align: left"><em>Computational Biology Group, Charité, Berlin.</em></td>
+            </tr>
+            <tr>
+              <td style="text-align: right">05/2012–08/2014</td>
+              <td style="text-align: left"><strong>Bioinformatician</strong></td>
+              <td style="text-align: left"><em><a href="http://cegat.de">CeGaT</a>, Tübingen</em></td>
+            </tr>
+            <tr>
+              <td style="text-align: right">2009–2012</td>
+              <td style="text-align: left"><strong>Master of Science in Bioinformatics</strong></td>
+              <td style="text-align: left"><em>University of Tübingen</em></td>
+            </tr>
+            <tr>
+              <td style="text-align: right">2006–2009</td>
+              <td style="text-align: left"><strong>Bachelor of Science in Bioinformatics</strong></td>
+              <td style="text-align: left"><em>University of Tübingen</em></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h4 id="contact">Contact</h4>
+
+
+
+        <div class="highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight">
+              <code>
+Visiting Address:
+Rahel Hirsch Center for Translational Medicine
+Level 05, AG Kircher
+Luisenstr. 65
+10117 Berlin
+Germany
+
+Postal Address:
+Charitéplatz 1
+10117 Berlin
+Germany
+
+Phone: +49/30/450 543006
+Email: max.schubach at bih-charite.de
+              </code>
+            </pre>
+          </div>
+        </div>
+
+        <h4 id="previous-work">Previous Work</h4>
+
+        <p>See my <a href="https://orcid.org/0000-0002-2032-6679">ORCID profile</a> for a complete list.</p>
+
+      </div>
+
+    </article>
+
+  </div>
+</main>
