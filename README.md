@@ -19,7 +19,7 @@ for i in templates/people/*.tmp; do
 done
 
 for i in templates/projects/*.tmp; do 
-    name = $(basename $i .tmp);
+    name=$(basename $i .tmp);
     cat templates/header.tmp templates/banner.tmp ${i} templates/footer.tmp > projects/${name}.html; 
 done
 
