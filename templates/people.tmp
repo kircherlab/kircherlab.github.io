@@ -392,7 +392,7 @@
 <tbody>
 <tr>
   <td class="lab-member-cell" width="33%">
-    <img src="assets/images/avatar.jpg" style="max-width:100%;" alt="Cora Leifheit" />
+    <img src="assets/images/cora.jpg" style="max-width:100%;" alt="Cora Leifheit" />
   </td>
   <td class="lab-member-cell" width="67%">
     <br />
@@ -434,28 +434,40 @@
 </tbody>
 </table>
 
-
-<!--    
 <table class="lab-member-table">
 <tbody>
 <tr>
   <td class="lab-member-cell" width="33%">
-    <img src="assets/images/Lea.jpg" style="max-width:100%;" alt="Lea Burkard" />
+    <img src="assets/images/leonie.png" style="max-width:100%;" alt="Leonie Nie&szlig;" />
   </td>
   <td class="lab-member-cell" width="67%">
     <br />
     <b>Lea Burkard</b>
     <br />
-    Master's Thesis Student (Uni Potsdam)
-    <p style="font-size: small;">since December 2021</p>
-    Student Intern, Uni Potsdam<br />
-    <p style="font-size: small;">Apr-Sep 2021</p>
-    <br />
+    Master's Project Intern (Uni L&uuml;beck)
+    <p style="font-size: small;">since September 2025</p>
   </td>
 </tr>
 </tbody>
 </table>
--->
+
+<table class="lab-member-table">
+<tbody>
+<tr>
+  <td class="lab-member-cell" width="33%">
+    <img src="assets/images/shefqet.jpg" style="max-width:100%;" alt="Shefqet Fejza" />
+  </td>
+  <td class="lab-member-cell" width="67%">
+    <br />
+    <b>Shefqet Fejza</b>
+    <br />
+    Master's Project Intern (Uni L&uuml;beck)
+    <p style="font-size: small;">since September 2025</p>
+  </td>
+</tr>
+</tbody>
+</table>
+
 
 <h3 id="former-members">Former members</h3>
 
