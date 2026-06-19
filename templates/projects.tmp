@@ -13,8 +13,12 @@
            <a href="https://cadd.bihealth.org/">CADD</a> - Combined Annotation Dependent Depletion (CADD) framework to score the deleteriousness of single nucleotide variants, multi-allelic substitutions and short insertion/deletions in the human genome (GRCh37/38).
           </p>
 
-         <p>
+          <p>
            <a href="https://github.com/kircherlab/CADD-scripts">CADD scripts</a> - Offline tool to score the deleteriousness of single nucleotide variants, multi-allelic substitutions and short insertion/deletions in the human genome in an on-site installation.
+          </p>
+
+          <p>
+           <a href="https://cadd-threshold.kircherlab.bihealth.org">CADD-ThresholdApp</a> - Visualization of ClinVar variants distributed across CADD PHRED-score thresholds to help choose sensible score cut-offs for specific use cases.
           </p>
 		  
 		  <p>
